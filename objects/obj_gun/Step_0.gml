@@ -7,3 +7,7 @@
 
 x = mouse_x;
 y = room_height * 0.9;
+
+// also note that I'm not checking for collisions
+// with bugs, etc.,  but that doesn't mean I don't
+// want to, if you know what I mean.
